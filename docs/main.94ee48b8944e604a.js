@@ -82,7 +82,7 @@ let AppComponent = /*#__PURE__*/(() => {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "li")(47, "strong");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](48, "Certifications:");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](49, " Python for Everybody Specialization.");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](49, " AWS Certified Cloud Practitioner, Python for Everybody Specialization.");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "li")(51, "strong");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](52, "Tools:");
