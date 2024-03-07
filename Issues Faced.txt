@@ -1,0 +1,20 @@
+This file contains some of the issue I have faced while creating this project.
+
+1. ng build issue:
+This is rather silly issue, when i was trying to run the build using the build command, I faced the issue below.
+command ran: "ng build --output-path docs --base-href/my-portfolio"
+error on the terminal:  "Error: Unknown argument: base-href/my-portfolio"
+So the solution is that we need to keep the space after the href in the command
+href/<repo name> is wrong
+href /<repo name> is correct.
+Below is the stackoverflow link for my answer with issue and images.
+https://stackoverflow.com/questions/77510079/ng-build-issue-error-unknown-argument-base-href/77510090#77510090
+
+2. Build error issue: 
+When I was trying to build my project for external build, i.e, on the guthub pages, I came accross this issue 
+" Error: Optimization error [main.64ac3ee7acfe838b.js]: Error: The service was stopped"
+with this my application was not compiling properly, and when i commit the changes to github, the workflow failed.
+To solve this issue I have did research using stack overflow and found a similar issue, regarding the build.
+After performing the changes, my application ran perfectly and was able to commit changes to the github pages successfully.
+below is my answer on the stackoverflow
+https://stackoverflow.com/questions/70909473/cant-ng-build-optimization-error-angular/77510014#77510014
