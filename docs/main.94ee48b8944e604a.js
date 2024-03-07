@@ -56,7 +56,7 @@ let AppComponent = /*#__PURE__*/(() => {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](24, "Master of Science in Information Systems | Expected May 2024");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "p", 6);
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](26, "Cumulative GPA: 3.66/4.00");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](26, "Cumulative GPA: 3.7/4.00");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "p")(28, "strong");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, "SASTRA Deemed to be University, Thanjavur, India");
@@ -82,7 +82,7 @@ let AppComponent = /*#__PURE__*/(() => {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "li")(47, "strong");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](48, "Certifications:");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](49, " Python for Everybody Specialization.");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](49, " AWS Certified Cloud Practitioner, Python for Everybody Specialization.");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "li")(51, "strong");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](52, "Tools:");
